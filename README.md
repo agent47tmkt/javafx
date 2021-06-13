@@ -2,7 +2,7 @@
 
 this is a register and login form which is created using java to run this:
 
-install and run on intellij
+install  intellij
 
 install mysql
 open mysql and set login and password of host for which the password is salman@98 for connecting the database
