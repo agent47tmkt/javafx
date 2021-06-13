@@ -1,6 +1,7 @@
 # javafx
 
-this is a register and login form which is created using java to run this:
+this is a register and login form which is implemented with a graphical user interface and  is created using java.
+To run this:
 
 install  intellij
 
