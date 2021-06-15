@@ -15,3 +15,4 @@ register a person by entering his name,username,password
 afterwards use the persons essentials to login
 
 the data of that person would be stored in the data base
+sample pictures are given in the issue column
