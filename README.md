@@ -6,7 +6,7 @@ To run this:
 install  intellij
 
 install mysql
-open mysql and set login and password of host for which the password is salman@98 for connecting the database
+open mysql and set login and password of host for which the password is ....... for connecting the database
 
 run the code
 
